@@ -16,7 +16,7 @@
   
   $ cd MacAddressChanger
   
-  $ python3 MacChanger -i <interface_name> -m <new_mac>
+  $ python3 MacChanger.py -i <interface_name> -m <new_mac>
   
  MacChanger arguments
 -----
@@ -30,7 +30,7 @@
 
 **Change Mac Address**
 
- $ python3 MacChanger -i eth0 -m xx:xx:xx:xx:xx:xx 
+ $ python3 MacChanger.py -i eth0 -m xx:xx:xx:xx:xx:xx 
   
  ![](images/MacChangerMain.PNG)
   

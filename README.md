@@ -21,7 +21,7 @@
  MacChanger arguments
 -----
 
-  $ Python3 MacChanger.py --help 
+  $ python3 MacChanger.py --help 
   
   ![](images/macChangerHelp.PNG)
   
